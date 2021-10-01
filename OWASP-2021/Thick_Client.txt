@@ -1,0 +1,4 @@
+
+DLL Hijacking is a way for attackers to run unwanted code on your system. This means that if an attacker can get a file/program on your system (by social engineering, remote control, etc.) that file could be performed when the user runs an application that is vulnerable to DLL Hijacking.
+
+DLL injection is a method used for running code within the address space of another process by forcing it to load a dynamic-link library. DLL injection is often used by outer programs to manipulate the performance of another program in a way its creators did not expect or intend.
