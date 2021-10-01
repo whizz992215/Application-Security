@@ -1,0 +1,34 @@
+OAuth stands for Open Authorization Framework and is the industry-standard delegation protocol for authorization. OAuth 2.0 is widely used by applications (e.g. SaaS platforms) to access your data that is already on the Internet. That includes for example your contacts list on Google, your friends list on Facebook, etc. If you were ever asked by web or mobile application to give permissions to access your personal data, you have probably used OAuth 2.0.
+
+OAuth includes 4 actors in the process of access delegation:
+
+    resource owner (basically a user who has some private resources like email, photos, etc.),
+    client (usually an application that wants to access these resources),
+    authorization server (who asks the resource owner for access to the resources on behalf of the client),
+    resource server (who stores user’s private resources and shares them with authorized clients).
+
+
+Cross-site Scripting (XSS) is a client-side code injection attack. The attacker aims to execute malicious scripts in a web browser of the victim by including malicious code in a legitimate web page or web application. The actual attack occurs when the victim visits the web page or web application that executes the malicious code. 
+
+Request smuggling
+
+
+Response splitting
+security headers
+saml
+pragma and cache
+oauth
+xxe
+ssrf
+
+trace
+
+
+DOM
+
+blind sql
+java deserilization
+intruder types
+trace and options
+
+user123#
